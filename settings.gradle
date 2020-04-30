@@ -1,0 +1,2 @@
+rootProject.name='Fragment + ViewModel Study'
+include ':app'
