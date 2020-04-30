@@ -1,6 +1,25 @@
 <resources>
     <string name="app_name">Fragment + ViewModel Study</string>
     <string name="msg_fragment_no">Fragment No: %1$d</string>
+    <string name="preference_color">Color:</string>
+    <string-array name="color_array">
+        <item>WHITE</item>
+        <item>CYAN</item>
+        <item>MAGENTA</item>
+        <item>YELLOW</item>
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>GRAY</item>
+    </string-array>
+    <string name="preference_animation">Animation:</string>
+    <string-array name="animation_array">
+        <item>STANDARD: NONE</item>
+        <item>STANDARD: OPEN</item>
+        <item>STANDARD: CLOSE</item>
+        <item>STANDARD: FADE</item>
+        <item>CUSTOM: SLIDE LEFT</item>
+    </string-array>
     <string name="button_next">Next</string>
     <string name="button_prev">Prev</string>
 </resources>
